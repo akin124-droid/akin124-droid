@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, i am akin,wsg 👋
 
 <!--
 **akin124-droid/akin124-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
